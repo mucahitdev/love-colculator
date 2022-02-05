@@ -1,0 +1,19 @@
+.text-white {
+  max-width: 30rem;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(128, 128, 128, 0.679);
+  color: black;
+  text-align: center;
+}
+.footer a {
+    all: unset;
+}
+.footer a:hover {
+  color: white;
+  cursor: pointer;
+}
